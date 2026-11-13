@@ -1,3 +1,4 @@
+#lab3
 def sequence_difference(sequence_a, sequence_b):
     return list(set(sequence_a) - set(sequence_b))
 
